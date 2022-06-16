@@ -1,7 +1,6 @@
 ## Description
-This project has two files.  
-Data source   
-[R script](https://raw.githubusercontent.com/Bowen999/liver_and_brain_transcriptome_different_analysis/main/main.R)
+The RNAseq data from this project came from the tissue based samples in https://www.ncbi.nlm.nih.gov/pubmed/25613900, which is part of the Human Protein Atlas.  
+[R script](https://raw.githubusercontent.com/Bowen999/liver_and_brain_transcriptome_different_analysis/main/main.R) used for data analysis and visulazation.
 
 ## Background
 Different human organs have different functions, so there will be differences in the level of gene expression. Through bioinformatics analysis of tissues from different organs, functional differences between organs can be searched for at the molecular level.
